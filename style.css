@@ -102,6 +102,7 @@ footer {
 
 form {
     margin: 40px 0;
+    padding: 40px;
 }
 
 form label,
@@ -140,9 +141,16 @@ form legend {
     transform: scale(1.2);
 }
 
+.container-table {
+    padding: 40px;
+}
+
+
 table {
     margin: 20px 0 40px;
+    padding: 0 40px;
 }
+
 
 thead {
     background: #555555;
